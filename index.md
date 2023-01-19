@@ -156,7 +156,6 @@ hand -->
 <h3><span>TestNG - Final Project</span> <span>2022</span></h3>
 <h3><span>Information systems in an electronics factory - Final Project</span> <span>2001</span></h3>
 
-
 <h2>Education</h2>
 <h3><span>Atid College - QA Automation Full Stack</span> <span>2022 &ndash; 2023</span></h3>
 <h3><span>Galil Maarvi College - Production Planning and Control (PP&C)</span> <span>1999 &ndash; 2021</span></h3>
